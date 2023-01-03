@@ -9,3 +9,4 @@ This repo is part of an ArgoCD experiment, see https://github.com/ric03/sample-d
   <img alt="Component Overview" src="https://github.com/ric03/sample-docs-argocd/raw/main/docs/component-overview-transparent.png">
 </picture>
 
+![](./docs/screenshot-argocd-part-of-appset.png)
